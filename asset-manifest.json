@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ayushtickoo.github.io/csb-s7eku/static/css/main.1fd5abdf.chunk.css",
+    "main.js": "https://ayushtickoo.github.io/csb-s7eku/static/js/main.739d4b3d.chunk.js",
+    "main.js.map": "https://ayushtickoo.github.io/csb-s7eku/static/js/main.739d4b3d.chunk.js.map",
+    "runtime-main.js": "https://ayushtickoo.github.io/csb-s7eku/static/js/runtime-main.6bad858e.js",
+    "runtime-main.js.map": "https://ayushtickoo.github.io/csb-s7eku/static/js/runtime-main.6bad858e.js.map",
+    "static/js/2.a84302f2.chunk.js": "https://ayushtickoo.github.io/csb-s7eku/static/js/2.a84302f2.chunk.js",
+    "static/js/2.a84302f2.chunk.js.map": "https://ayushtickoo.github.io/csb-s7eku/static/js/2.a84302f2.chunk.js.map",
+    "index.html": "https://ayushtickoo.github.io/csb-s7eku/index.html",
+    "static/css/main.1fd5abdf.chunk.css.map": "https://ayushtickoo.github.io/csb-s7eku/static/css/main.1fd5abdf.chunk.css.map",
+    "static/js/2.a84302f2.chunk.js.LICENSE.txt": "https://ayushtickoo.github.io/csb-s7eku/static/js/2.a84302f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bad858e.js",
+    "static/js/2.a84302f2.chunk.js",
+    "static/css/main.1fd5abdf.chunk.css",
+    "static/js/main.739d4b3d.chunk.js"
+  ]
+}
